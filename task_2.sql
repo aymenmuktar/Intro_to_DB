@@ -5,7 +5,7 @@ USE alx_book_store;
 
 CREATE TABLE AUTHORS (
     author_id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL
+    author_ name VARCHAR(100) NOT NULL
 );
 
 CREATE TABLE BOOKS (
